@@ -1,5 +1,5 @@
 this is the file content
-my name is 
+my name is chad
 i gotta go somewhere
 <<<<<<< HEAD
 from main updated
