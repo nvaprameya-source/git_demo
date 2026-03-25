@@ -1,4 +1,7 @@
 this is the file content
 my name is chad
 i gotta go somewhere
-from main updated at 2:33pm
+<<<<<<< HEAD
+from main updated
+updated from feature
+
